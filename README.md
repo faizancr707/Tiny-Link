@@ -36,11 +36,6 @@ npm run dev
 
 ## Uploaded reference files (local paths)
 The following original assignment PDFs were included (local paths inside this environment). If you need these uploaded to a public URL, transform the local paths to URLs using your tooling.
-```
-/mnt/data/url_shortener_backend.pdf
-/mnt/data/url_shortener_frontend.pdf
-/mnt/data/Take-Home Assignment_ TinyLink (1) (2).pdf
-```
 
 ## License
 MIT — see LICENSE file.
